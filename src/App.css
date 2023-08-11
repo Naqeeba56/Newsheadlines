@@ -1,0 +1,32 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: #D7E1EC, #FFFFFF;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card {
+  transition: all 0.2s ease;
+  cursor: pointer;
+
+}
+
+.card:hover {
+  transform: translateY(-12px);
+}
+
+/* .card:hover img {
+  transform: translateY(-12px);
+} */
+
+.Newssource .source-cont:hover {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+
+}
